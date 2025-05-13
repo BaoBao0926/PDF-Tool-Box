@@ -4,6 +4,8 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-yellowgreen)
 
+The test documents can be found in [Here](https://github.com/BaoBao0926/PDF-Tool-Box/edit/main/testdoc.md)
+
 ## Functionalities:
 - ***Merge PDFs***: Combine multiple PDF files with customizable page ranges
 
