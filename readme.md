@@ -39,7 +39,14 @@ python main.py
 # then conduct operations on the UI interface
 ```
 
-#
+# Contributing
+Contributions are welcome! Please follow these steps:
+
+- Fork the repository
+- Create a new branch for your feature
+- Commit your changes
+- Push to the branch
+- Create a new Pull Request
 
 
 
